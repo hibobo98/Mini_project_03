@@ -1,6 +1,6 @@
 # Mini_project_03
 
-> Dacon 주최 <
+> Dacon 주최
 >건설장비에서 작동오일의 상태를 실시간으로 모니터링하기 위한 오일 상태 판단 모델 개발 (정상, 이상의 이진분류)
 ><br>평가 산식 : Macro F1 Score
 ><br>Feature 52개, Y_LABEL (0, 1)</title>
